@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!--
-**tuliofaria/tuliofaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tulio Faria and I´m experienced (+15 years) fullstack developer living in Brazil and working remotely for companies around the globe.
+Contact-me on:
+[LinkedIn](https://linkedin.com/in/tuliofaria)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
