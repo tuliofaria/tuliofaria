@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋.
 
 My name is Tulio Faria and I´m experienced (+15 years) fullstack developer living in Brazil and working remotely for companies around the globe.
 Contact-me on:
