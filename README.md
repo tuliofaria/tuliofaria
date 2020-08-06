@@ -12,6 +12,8 @@ Contact-me on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tuliofaria&repo=dyn-qrcode)](https://github.com/tuliofaria/dyn-qrcode)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliofaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
