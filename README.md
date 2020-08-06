@@ -4,7 +4,7 @@ My name is Tulio Faria and I´m experienced (+15 years) fullstack developer livi
 Contact-me on:
 [LinkedIn](https://linkedin.com/in/tuliofaria)
 
-[![My website](https://dyn-qrcode.vercel.app/api?url=https%3A%2F%2Ftuliofaria.dev)(https://tuliofaria.dev)
+[![My website](https://dyn-qrcode.vercel.app/api?url=https%3A%2F%2Ftuliofaria.dev)](https://tuliofaria.dev)
 
 ![Welcome](https://github.com/tuliofaria/tuliofaria/blob/master/github-profile-header.png?raw=true)
 
