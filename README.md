@@ -4,6 +4,13 @@ My name is Tulio Faria and I´m experienced (+15 years) fullstack developer livi
 Contact-me on:
 [LinkedIn](https://linkedin.com/in/tuliofaria)
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+    This is going to be hidden. 
+ </details>
+
 <!--
 Here are some ideas to get you started:
 
