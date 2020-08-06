@@ -4,7 +4,7 @@ My name is Tulio Faria and I´m experienced (+15 years) fullstack developer livi
 Contact-me on:
 [LinkedIn](https://linkedin.com/in/tuliofaria)
 
-![Welcome](/github-profile-header.png?raw=true)
+![Welcome](https://github.com/tuliofaria/tuliofaria/blob/master/github-profile-header.png?raw=true)
 
 ![Tulio Faria's github stats](https://github-readme-stats.vercel.app/api?username=tuliofaria&show_icons=true&theme=radical)
 
