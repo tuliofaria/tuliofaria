@@ -8,6 +8,8 @@ Contact-me on:
 
 ![Tulio Faria's github stats](https://github-readme-stats.vercel.app/api?username=tuliofaria&show_icons=true&theme=radical)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tuliofaria&repo=dyn-qrcode)](https://github.com/tuliofaria/dyn-qrcode)
+
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
