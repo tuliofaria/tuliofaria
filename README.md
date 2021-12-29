@@ -1,6 +1,6 @@
 ### Hi there 👋.
 
-My name is Tulio Faria and I´m experienced (+15 years) fullstack developer living in Brazil and working remotely for companies around the globe. I´m also the founder of DevPleno - an online coding school.
+My name is Tulio Faria and I´m experienced (+18 years) fullstack developer living in Brazil and working remotely for companies around the globe. I´m also the founder of DevPleno - an online coding school.
 
 Contact-me on:
 [LinkedIn](https://linkedin.com/in/tuliofaria)
